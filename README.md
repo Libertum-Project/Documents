@@ -13,8 +13,6 @@ Libertum Project is the intermediate bridge between the traditional economy and 
 # Documents
 - Libertum documentation is located at the following  <a href="Libertum Project writepaper a1.pdf" rel="nofollow" _istranslated="1">Libertum documentation</a> link. More information about the protocol can be found in the documentation.
  - Additional documentation coming soon...
- ㅤ
- ㅤ
- ㅤs
+ 
  # Connect with the community
  You can join the <a href="Libertum Project writepaper a1.pdf" rel="nofollow" _istranslated="1">Discord</a> or <a href="Libertum Project writepaper a1.pdf" rel="nofollow" _istranslated="1">Telegram</a> channel to ask questions about the protocol or discuss Libertum with fellow members.
