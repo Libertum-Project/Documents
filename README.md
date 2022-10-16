@@ -6,6 +6,8 @@
 |__/|__/_/ /_/_/\__/\___/ .___/\__,_/ .___/\___/_/     /_____/_/_.___/\___/_/   \__/\__,_/_/ /_/ /_/ 
                        /_/         /_/                                                              
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+ 
 # What is Libertum?
+ 
 Libertum Project is the intermediate bridge between the traditional economy and the Web3.0 economy. Each LBM can be used in one BEP20 to access a decentralized financial service. Libertum's smart contracts and libraries make it easy to publish P2P lending services (lending and borrowing SLBMs and other cryptocurrencies) and use DeFi services such as Liquidity Pools and Swaps. Libertum contracts run on the main Binance SmartChain network to start with and in the future we plan to have our own blockchain that will allow us to have even more decentralization. The Roadmap that Libertum plans for the future is not only limited to providing DeFi financial services and loans with crypto collateral, but also seeks to broaden the horizons of the credit market, connecting the real estate market together with decentralized finance. That means that we will be a MarketPlace for the real estate market (purchase-sale-investment) and a secondary market for all projects and platforms that are allied with the Libertum launchpad which seek to incur cryptographic loans with real collateral.
 # Documents
