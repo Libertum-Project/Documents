@@ -15,4 +15,4 @@ Libertum Project is the intermediate bridge between the traditional economy and 
  - Additional documentation coming soon...
  
  # Connect with the community
- You can join the <a href="https://discord.gg/cAB2MKRw7b" target="_blank" rel="nofollow" _istranslated="1">Discord</a> or <a href="Libertum Project writepaper a1.pdf" rel="nofollow" _istranslated="1">Telegram</a> channel to ask questions about the protocol or discuss Libertum with fellow members.
+ You can join the <a href="https://discord.gg/cAB2MKRw7b" target="_blank" rel="noreferrer noopener" _istranslated="1">Discord</a> or <a href="Libertum Project writepaper a1.pdf" rel="nofollow" _istranslated="1">Telegram</a> channel to ask questions about the protocol or discuss Libertum with fellow members.
