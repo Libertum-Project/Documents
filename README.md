@@ -10,7 +10,7 @@
 # What is Libertum?
  
 Libertum Project is the intermediate bridge between the traditional economy and the Web3.0 economy. Each LBM can be used in one BEP20 to access a decentralized financial service. Libertum's smart contracts and libraries make it easy to publish P2P lending services (lending and borrowing SLBMs and other cryptocurrencies) and use DeFi services such as Liquidity Pools and Swaps. Libertum contracts run on the main Binance SmartChain network to start with and in the future we plan to have our own blockchain that will allow us to have even more decentralization. The Roadmap that Libertum plans for the future is not only limited to providing DeFi financial services and loans with crypto collateral, but also seeks to broaden the horizons of the credit market, connecting the real estate market together with decentralized finance. That means that we will be a MarketPlace for the real estate market (purchase-sale-investment) and a secondary market for all projects and platforms that are allied with the Libertum launchpad which seek to incur cryptographic loans with real collateral.
-# Documents
+# Documents (documents are updated in 36 hours)
 - Libertum documentation is located at the following  <a href="Libertum Project whitepaper ENG.pdf" rel="nofollow" _istranslated="1">Whitepaper Libertum</a> link. More information about the protocol can be found in the documentation.
 - Documentation that explains the <a href="Business Model Canvas.pdf" rel="nofollow" _istranslated="1">Business Model</a> in a summarized and simple way
 - Documentation that groups all the <a href="Interview Transcript.pdf" rel="nofollow" _istranslated="1">Interview Transcript</a> 
