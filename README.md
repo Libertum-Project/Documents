@@ -13,10 +13,11 @@ Libertum Project is the intermediate bridge between the traditional economy and 
 # Documents 
 - Libertum documentation is located at the following  <a href="Libertum Project whitepaper ENG.pdf" rel="nofollow" _istranslated="1">Whitepaper Libertum</a> link. More information about the protocol can be found in the documentation.
 - Documentation that explains the <a href="Business Model Canvas.pdf" rel="nofollow" _istranslated="1">Business Model</a> in a summarized and simple way
-- Documentation that groups all the  <a href="Interview Transcript.pdf" rel="nofollow" _istranslated="1">Interview Transcript</a> of the interview conducted with an audience of approximately 100 people
+- Documentation that groups the entire  <a href="Interview Transcript.pdf" rel="nofollow" _istranslated="1">Interview Transcribed</a> conducted to an audience of approximately "100" people
 - <a href="Tokenomics distribution.xlsx" rel="nofollow" _istranslated="1">Excel</a>  that explains the distribution / economy that is managed with the Libertum token without counting supply and demand factors
 - <a href="Tokenomics Libertum.pdf" rel="nofollow" _istranslated="1">Documentation</a> that explains the concept of using the LBM token along with user research for the Libertum platform and its token.
 - Additional documentation coming soon...
  
  # Connect with the community
  You can join the <a href="https://discord.gg/cAB2MKRw7b" target="_blank" rel="noopener noreferrer">Discord</a> or <a href="https://t.me/+1tVov6zVHVRlMmIx" rel="nofollow" _istranslated="1">Telegram</a> channel to ask questions about the protocol or discuss Libertum with fellow members.
+Documentation that groups the entire interview transcribed conducted to an audience of approximately 100 people
