@@ -18,7 +18,8 @@ Libertum Project is the bridge between the traditional economy and the Web3.0 ec
 - <a href="Tokenomics-Libertum.pdf" rel="nofollow" _istranslated="1">Documentation</a> that explains the concept of using the LBM token along with user research for the Libertum platform and its token.
 - The attached documentation explains the <a href="MarketingENG.pdf" rel="nofollow" _istranslated="1">marketing strategy</a>  that our startup will use. It describes the actions we will take to promote our products and services, as well as the tactics we will employ to reach our target audience and generate demand in the market. In addition, it includes the goals and objectives we aim to achieve with our strategy, as well as a detailed action plan for implementing it efficiently and effectively.
 - The attached documentation outlines our approach to using <a href="Real Estate-ENG.pdf" rel="nofollow" _istranslated="1">blockchain in the real estate </a> industry. It's important to note that, as we're innovating in this field, some aspects of the document may change over time. However, in general, it describes how we plan to use blockchain technology to improve efficiency and transparency in the real estate market, as well as to offer new forms of investment and financing in the sector.
-- Additional documentation coming soon...
+- Do you want to know what the website will be like? Go to the <a href="UX-UI Preview.pdf" rel="nofollow" _istranslated="1">UX-UI Preview</a> document for a look.
+ - Additional documentation coming soon...
  
  # Connect with the community
  You can join the <a href="https://discord.gg/cAB2MKRw7b" target="_blank" rel="noopener noreferrer">Discord</a> or <a href="https://t.me/LibertumProject" rel="nofollow" _istranslated="1">Telegram</a> channel to ask questions about the protocol or discuss Libertum with fellow members.
