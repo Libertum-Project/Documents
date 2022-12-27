@@ -23,4 +23,4 @@ Libertum Project is the bridge between the traditional economy and the Web3.0 ec
  
  # Connect with the community
  You can join the <a href="https://discord.gg/cAB2MKRw7b" target="_blank" rel="noopener noreferrer">Discord</a> or <a href="https://t.me/LibertumProject" rel="nofollow" _istranslated="1">Telegram</a> channel to ask questions about the protocol or discuss Libertum with fellow members.
-Documentation that groups the entire interview transcribed conducted to an audience of approximately 100 people
+
